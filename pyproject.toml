@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [
     { email = "peter.barrow.93@gmail.com" }
 ]
-requires-python = ">=3.12"
+requires-python = ">=3.9"
 dependencies = [
     "pyyaml>=6.0.3",
 ]
