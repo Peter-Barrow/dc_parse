@@ -2,6 +2,8 @@ from dataclasses import dataclass, field
 from enum import Enum
 from typing import Optional
 
+from dc_parse import create_config_hierarchy
+
 if __name__ == '__main__':
 
     class LogLevel(Enum):
